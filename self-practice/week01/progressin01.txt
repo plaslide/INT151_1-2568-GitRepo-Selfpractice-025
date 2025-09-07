@@ -1,1 +1,7 @@
-w
+Week 1: Array Basics
+-การสร้าง array ด้วย [] และ new Array()
+-การเข้าถึงสมาชิกใน array ด้วย index
+-ใช้ push(), pop(), shift(), unshift() เพื่อเพิ่ม/ลบข้อมูล
+-ใช้ for loop แสดงค่าใน array
+-การแปลง string เป็น array ด้วย spread ([...str])
+-Destructuring array เพื่อแยกค่าหลายตัวแปร

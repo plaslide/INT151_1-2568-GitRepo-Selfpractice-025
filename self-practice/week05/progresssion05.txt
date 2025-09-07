@@ -1,0 +1,7 @@
+Week 5: Function + Class + Export + Sort
+-การสร้าง function (echo, getLength)
+-การประกาศค่าคงที่ (const GPA = 3.0)
+-การสร้าง class (Book มี property isbn)
+-การ export ฟังก์ชัน/คลาสออกไปใช้ไฟล์อื่น
+-การ sort array ของ object (localeCompare, gpa, id)
+-การ filter/map หานักเรียนที่สอบผ่าน

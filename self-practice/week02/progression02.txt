@@ -1,0 +1,8 @@
+Week 2: Function & Object Basics
+-การเขียนฟังก์ชันทั่วไป (function declaration)
+-การใช้ throw new Error() จัดการ error
+-การสร้าง object แบบ literal {}
+-Constructor function (function Car(...) { this... })
+-การสร้าง class (class Pegasus { constructor... })
+-Object.create() เพื่อสร้าง object จาก prototype
+-Destructuring object (let { name, id } = obj)

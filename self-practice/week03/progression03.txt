@@ -1,0 +1,7 @@
+Week 3: Array Higher-Order Functions
+-ใช้ forEach() วนสมาชิก
+ใ-ช้ map() แปลงข้อมูล เช่น firstname + lastname
+-ใช้ filter() เลือกเฉพาะสมาชิกตามเงื่อนไข
+-ช้ find() หา element (มีพิมพ์ผิด finds → ต้องแก้)
+-ใช้ reduce() รวมผลลัพธ์ (เช่น รวมราคาสินค้า)
+-การใช้ slice(), splice(), fill() จัดการ array
